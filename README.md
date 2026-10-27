@@ -56,6 +56,20 @@ Dataset berisi fitur klinis dan histopatologis dari pasien dengan berbagai kondi
 - `xgboost` — gradient boosting
 - `imbalanced-learn` — SMOTE oversampling
 
+## 📈 Visualisasi Hasil
+
+### Perbandingan Akurasi Model
+![Accuracy Comparison](images/accuracy_comparison.png)
+
+### Distribusi Kelas Dataset
+![Class Distribution](images/class_distribution.png)
+
+### Confusion Matrix (Model Terbaik)
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Feature Importance (Random Forest)
+![Feature Importance](images/feature_importance.png)
+
 ## 🚀 Cara Menjalankan
 
 1. Clone repositori ini:
